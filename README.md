@@ -20,8 +20,6 @@ Guide
     3. Inside of our package.json
 <img width="594" alt="Screen Shot 1443-04-12 at 2 30 42 PM" src="https://user-images.githubusercontent.com/63668672/142192739-45c19c61-22bf-404e-9936-30ca6d1bd494.png">
 
-### `npm run build`
-
 3. Front end.
     1. Let's get the enviorement ready.
 ### `npm run build`
